@@ -13,6 +13,6 @@ RUN:
 TEST:
    <br> http://ip:port/docs (e.g. (http://127.0.0.1:3000/docs) will have swagger running with the Get, Put and Post calls excepted by the server. This page can be used to test the application
    
-  ![alt text](https://user-images.githubusercontent.com/1075142/34034326-d3d6b5b6-e132-11e7-9c64-057fd2c60fdd.png)
+  ![alt text](https://user-images.githubusercontent.com/1075142/34034467-882a0eb4-e133-11e7-9f49-93055d6c40ba.png)
 
 
