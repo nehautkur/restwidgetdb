@@ -11,6 +11,6 @@ RUN:
  <br>   node server.js
 <br><br>
 TEST:
-   <br> http://<ip>:<port>/docs (e.g. (http://127.0.0.1:3000/docs) will have swagger running with the Get, Put and Post calls excepted by the server. This page can be used to test the application
+   <br> http://ip:port/docs (e.g. (http://127.0.0.1:3000/docs) will have swagger running with the Get, Put and Post calls excepted by the server. This page can be used to test the application
 
 
